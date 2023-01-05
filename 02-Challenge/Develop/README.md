@@ -16,13 +16,13 @@
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
-  3
-  3
-  3
+  4
+  5
+  6
   ## [Installation](#table-of-contents)
-  3
+  7
   ## [Usage](#table-of-contents)
-  3
+  8
   
   For more information on how to add screenshots for examples, visit the following website:
   
@@ -38,11 +38,11 @@
   ## [Contributing](#table-of-contents)
   
   
-  Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
+  10
     
   ## [Tests](#table-of-contents)
-  3
+  11
   ## [Questions](#table-of-contents)
   Please contact me using the following links:
-  [GitHub](https://github.com/3)
-  [Email: 3](mailto:3)
+  [GitHub](https://github.com/2)
+  [Email: 1](mailto:1)
